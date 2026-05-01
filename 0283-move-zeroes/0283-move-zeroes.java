@@ -1,6 +1,5 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-
         int i = 0;
 
         for(int j = 0; j<nums.length; j++){
@@ -9,6 +8,8 @@ class Solution {
                 nums[i] = nums[j];
                 nums[j] = temp;
                 i++;
+
+                
             }
         }
         
