@@ -5,15 +5,13 @@ class Solution {
 
         while(j<nums.length){
             if(nums[j] != nums[i]){
-                i++;
-                nums[i] = nums[j];
-
-            }
-            j++;
+            i++;
+            nums[i] = nums[j];
         }
-
-        return i+1;
-
-        
+        j++;
     }
+    return i+1;
+
+    
+}
 }
