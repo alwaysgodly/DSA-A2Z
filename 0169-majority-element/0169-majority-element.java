@@ -11,7 +11,7 @@ class Solution {
             if(num == ans){
                 count++;
             }else{
-                count--;
+                count--;;
             }
         }
         return ans;
