@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -68,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
