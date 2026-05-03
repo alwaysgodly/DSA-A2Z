@@ -81,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
