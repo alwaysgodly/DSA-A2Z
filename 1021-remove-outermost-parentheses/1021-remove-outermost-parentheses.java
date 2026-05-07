@@ -5,20 +5,19 @@ class Solution {
 
         for(char c: s.toCharArray()){
             if(c == '('){
-                if(depth>0){
+                if(depth > 0){
                     result.append(c);
                 }
                 depth++;
+
             }else{
                 depth--;
-                if(depth>0){
-                result.append(c);
+                if(depth > 0){
+                    result.append(c);
                 }
             }
         }
 
         return result.toString();
-
-
     }
 }
