@@ -7,9 +7,7 @@ class Solution {
             if(c == '('){
                 if(depth > 0){
                     result.append(c);
-                }
-                depth++;
-
+                }depth++;
             }else{
                 depth--;
                 if(depth > 0){
