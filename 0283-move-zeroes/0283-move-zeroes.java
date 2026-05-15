@@ -8,10 +8,7 @@ class Solution {
                 nums[i] = nums[j];
                 nums[j] = temp;
                 i++;
-
-                
             }
         }
-        
     }
 }
