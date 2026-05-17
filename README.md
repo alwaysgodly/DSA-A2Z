@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -131,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0004-median-of-two-sorted-arrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
