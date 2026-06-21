@@ -12,7 +12,7 @@ class Solution {
                 posIndex +=2;
             }else{
                 result[negIndex] = num;
-                negIndex += 2;
+                negIndex +=2;
             }
         }
 
