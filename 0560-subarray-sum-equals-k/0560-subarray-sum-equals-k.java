@@ -1,36 +1,21 @@
 class Solution {
-    public int subarraySum(int[] arr, int k) {
-         int n = arr.length;
+    public int subarraySum(int[] nums, int k) {
+        HashMap<Integer, Integer> map = new HashMap<>();
 
-        // Map to store frequency of prefix sums
-        HashMap<Integer, Integer> prefixSumCount = new HashMap<>();
-
-        // Initialize prefix sum and count of subarrays
+        map.put(0,1);
         int prefixSum = 0;
         int count = 0;
 
-        // Base case: prefix sum 0 has occurred once
-        prefixSumCount.put(0, 1);
+        for(int num: nums){
+            prefixSum += num;
 
-        // Traverse through the array
-        for (int i = 0; i < n; i++) {
-            // Add current element to prefix sum
-            prefixSum += arr[i];
-
-            // Calculate the prefix sum that needs to be removed
-            int remove = prefixSum - k;
-
-            // If this prefix sum has been seen before,
-            // add its count to the result
-            if (prefixSumCount.containsKey(remove)) {
-                count += prefixSumCount.get(remove);
+            if(map.containsKey(prefixSum - k)){
+                count += map.get(prefixSum - k);
             }
 
-            // Update the frequency of the current prefix sum
-            prefixSumCount.put(prefixSum, prefixSumCount.getOrDefault(prefixSum, 0) + 1);
+            map.put(prefixSum, map.getOrDefault(prefixSum, 0) + 1);
         }
 
-        // Return the total count of subarrays
         return count;
     }
 }
