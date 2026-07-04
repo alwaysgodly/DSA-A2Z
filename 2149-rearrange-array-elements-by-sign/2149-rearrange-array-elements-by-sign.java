@@ -9,10 +9,10 @@ class Solution {
         for(int num: nums){
             if(num > 0){
                 result[posIndex] = num;
-                posIndex +=2;
+                posIndex += 2;
             }else{
                 result[negIndex] = num;
-                negIndex +=2;
+                negIndex += 2;
             }
         }
 
