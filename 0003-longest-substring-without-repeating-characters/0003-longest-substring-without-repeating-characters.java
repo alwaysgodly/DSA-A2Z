@@ -1,6 +1,7 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        HashSet<Character> set  = new HashSet<>();
+        HashSet<Character> set = new HashSet<>();
+
         int left = 0;
         int max = 0;
 
@@ -11,11 +12,9 @@ class Solution {
             }
 
             set.add(s.charAt(right));
-
             max = Math.max(max, right-left+1);
         }
+
         return max;
-
-
     }
 }
