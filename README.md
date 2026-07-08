@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1248-count-number-of-nice-subarrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/alwaysgodly/DSA-A2Z/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0268-missing-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -173,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0930-binary-subarrays-with-sum](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
