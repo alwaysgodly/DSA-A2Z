@@ -6,16 +6,15 @@ class Solution {
         int posIndex = 0;
         int negIndex = 1;
 
-        for(int num: nums){
-            if(num > 0){
-                result[posIndex] = num;
+        for(int i = 0; i<n; i++){
+            if(nums[i] > 0){
+                result[posIndex] = nums[i];
                 posIndex += 2;
             }else{
-                result[negIndex] = num;
+                result[negIndex] = nums[i];
                 negIndex += 2;
             }
         }
-
         return result;
     }
 }
