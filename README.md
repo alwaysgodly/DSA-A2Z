@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/alwaysgodly/DSA-A2Z/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/alwaysgodly/DSA-A2Z/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 ## Math
 |  |
 | ------- |
