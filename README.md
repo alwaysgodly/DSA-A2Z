@@ -222,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
