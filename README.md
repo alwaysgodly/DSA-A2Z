@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0704-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1248-count-number-of-nice-subarrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1248-count-number-of-nice-subarrays) |
