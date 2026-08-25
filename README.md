@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -236,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
