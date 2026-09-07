@@ -7,14 +7,12 @@ class Solution {
             if(count == 0){
                 ans = num;
             }
-
             if(num == ans){
                 count++;
             }else{
                 count--;
             }
         }
-
         return ans;
     }
 }
