@@ -5,8 +5,8 @@ class Solution {
         int depth = 0;
 
         for(char c: s.toCharArray()){
-            if(c == '('){
-                if(depth>0){
+            if(c =='('){
+                if(depth > 0){
                     result.append(c);
                 }depth++;
             }else{
@@ -18,6 +18,5 @@ class Solution {
         }
 
         return result.toString();
-
     }
 }
