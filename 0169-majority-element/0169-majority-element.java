@@ -12,7 +12,9 @@ class Solution {
             }else{
                 count--;
             }
+            
         }
+
         return ans;
     }
 }
