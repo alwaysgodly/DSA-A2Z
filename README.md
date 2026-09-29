@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0560-subarray-sum-equals-k) |
+| [0636-exclusive-time-of-functions](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0636-exclusive-time-of-functions) |
 | [0704-binary-search](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0930-binary-subarrays-with-sum) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0636-exclusive-time-of-functions](https://github.com/alwaysgodly/DSA-A2Z/tree/master/0636-exclusive-time-of-functions) |
 | [1021-remove-outermost-parentheses](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/alwaysgodly/DSA-A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
